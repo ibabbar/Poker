@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC131
+#  Project Poker: Poker
+
+courseName=CMSC131
+semester=201508
+projectNumber=Poker
+courseKey=1e0686f597df659f
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2015
+submitURL=https://submit.cs.umd.edu:443/fall2015/eclipse/SubmitProjectViaEclipse
